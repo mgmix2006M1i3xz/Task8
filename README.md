@@ -1,4 +1,4 @@
-<img width="620" height="670" alt="image" src="https://github.com/user-attachments/assets/0e19d61c-7144-4929-afb9-3763acdc120d" />Домашнее задание к работе номер 8
+Домашнее задание к работе номер 8
 
 Условие задачи: 
 
